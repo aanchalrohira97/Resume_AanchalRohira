@@ -6,11 +6,13 @@ arohira@iu.edu | +1 (317)-516-9015 | linkedin.com/in/aanchalrohira/ | github.com
 
 EDUCATION : 
 
-Indiana University – Purdue University, Indianapolis, IN					                   Aug, 2021 - Dec, 2022     
+Indiana University – Purdue University, Indianapolis, IN					                   
+Aug, 2021 - Dec, 2022     
 Master of Science in Computer and Information Sciences
 GPA : 3.6 / 4.0
 
-University of Mumbai											     May, 2015 - May, 2019      
+University of Mumbai											     
+May, 2015 - May, 2019      
 BE in Information Technology Engineering
 CGPA: 7.84/10
 
