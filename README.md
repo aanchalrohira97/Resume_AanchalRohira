@@ -46,6 +46,7 @@ Soft: Teamplayer, Responsible, Curious, Quick-Learner
 PROJECTS:
 
 Graduate Research Assistant Project : CovidCV | HTML | CSS | JavaScript | ReactJS | MySQL 
+
 May, 2022              
 
 Independently developed and maintained a multidisciplinary project aiming to represent alternative academic CVs for individuals highlighting accomplishments and challenges faced during the pandemic. 
