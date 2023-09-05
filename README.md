@@ -2,7 +2,7 @@
 
 AANCHAL KUMAR ROHIRA
 
-arohira@iu.edu | +1 (317)-516-9015 | linkedin.com/in/aanchalrohira/ | github.com/aanchalrohira97 | Indianapolis, IN
+arohira@iu.edu | linkedin.com/in/aanchalrohira/ | github.com/aanchalrohira97 | Indianapolis, IN
 
 EDUCATION : 
 
