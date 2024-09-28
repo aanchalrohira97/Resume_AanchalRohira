@@ -18,8 +18,8 @@ CGPA: 7.84/10
 
 WORK EXPERIENCE:
 
-Software Engineer : Seismic
-Jan 2023 - Present
+Software Engineer Intern : Seismic  
+Jan, 2023 – Present
 
 - Reduced bug backlog by 50% and added caching to eliminate redundant token regeneration, improving system efficiency and reducing latency.
 - Collaborated with SendGrid to diagnose an API failure caused by the addition of a new parameter in the request URL. Clearly documented the issue, leading to a fix within a few days and the restoration of 100% email delivery functionality
