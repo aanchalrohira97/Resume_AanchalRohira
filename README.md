@@ -18,7 +18,7 @@ CGPA: 7.84/10
 
 WORK EXPERIENCE:
 
-Software Engineer Intern : Seismic  
+Software Engineer : Seismic  
 Jan, 2023 – Present
 
 - Reduced bug backlog by 50% and added caching to eliminate redundant token regeneration, improving system efficiency and reducing latency.
